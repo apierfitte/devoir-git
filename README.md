@@ -1,7 +1,7 @@
 01 Nom: Auguste Pierfitte
 01 github:
 02 Nom:Louis Beauval
-02 github:
+02 github: louisbeauval
 03 Nom: Léonard Mouillet
 03 github:
 04 Nom: Marius Moulle
